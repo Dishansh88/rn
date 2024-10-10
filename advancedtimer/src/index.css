@@ -1,0 +1,19 @@
+.mainbox
+{
+  text-align: center;
+  border: 2px solid blueviolet;
+
+}
+.mainbox input
+{
+   width: 30%;
+   
+
+}
+.mainbox button
+{
+  border: 2px solid blueviolet;
+  margin: 5px;
+  border-radius: 7px;
+  margin-top: 0px;
+}
